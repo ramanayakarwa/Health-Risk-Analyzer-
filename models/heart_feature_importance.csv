@@ -1,0 +1,14 @@
+Feature,Importance
+ca,0.06875
+thal,0.046875
+sex,0.040625
+thalach,0.015625
+restecg,0.015625
+cp,0.0125
+trestbps,0.0125
+chol,0.003125
+exang,0.0
+oldpeak,0.0
+fbs,0.0
+age,-0.009375
+slope,-0.009375

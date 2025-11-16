@@ -1,0 +1,10 @@
+{
+    "model": "Stroke",
+    "accuracy": 0.9773778920308483,
+    "timestamp": "2025-10-29 10:31:31",
+    "best_params": {
+        "max_depth": null,
+        "min_samples_split": 5,
+        "n_estimators": 200
+    }
+}

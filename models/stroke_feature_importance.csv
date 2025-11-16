@@ -1,0 +1,17 @@
+Feature,Importance
+hypertension,0.04318766066838049
+age,0.039588688946015436
+ever_married_Yes,0.021696658097686394
+Residence_type_Urban,0.019948586118251965
+gender_Male,0.01933161953727509
+smoking_status_formerly smoked,0.015938303341902337
+heart_disease,0.01048843187660673
+smoking_status_never smoked,0.009768637532133705
+work_type_Private,0.009562982005141408
+avg_glucose_level,0.006889460154241678
+work_type_Self-employed,0.005861182519280206
+bmi,0.004627249357326479
+smoking_status_smokes,0.0018508997429306008
+work_type_children,0.00041131105398459764
+gender_Other,0.0
+work_type_Never_worked,0.0

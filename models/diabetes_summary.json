@@ -1,0 +1,10 @@
+{
+    "model": "Diabetes",
+    "accuracy": 0.9940828402366864,
+    "timestamp": "2025-10-29 10:31:21",
+    "best_params": {
+        "max_depth": null,
+        "min_samples_split": 5,
+        "n_estimators": 100
+    }
+}

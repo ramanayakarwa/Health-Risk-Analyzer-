@@ -1,0 +1,10 @@
+{
+    "model": "Heart",
+    "accuracy": 0.84375,
+    "timestamp": "2025-10-29 10:31:18",
+    "best_params": {
+        "max_depth": null,
+        "min_samples_split": 5,
+        "n_estimators": 200
+    }
+}
